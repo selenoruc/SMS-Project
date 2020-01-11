@@ -73,7 +73,7 @@ That's it! The application should be running.
 
 * **Amal Ahmed** - *Initial work* - [Add website name](webpage link)
 * **Jamiu Oluwaseun Ojeleye** - *Initial work* - [Github](https://github.com/oluwaseunojeleye)
-* **Selen KUTANOĞLU** - *Initial work* - [Add website name](webpage link)
+* **Selen KUTANOĞLU** - *Initial work* - [GitHub](https://github.com/selenkutanoglu)
 
 ## Acknowledgments
 
