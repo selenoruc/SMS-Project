@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SMS-Project
 SMS Smart Movie Suggester Web App
 =======
@@ -82,4 +81,3 @@ That's it! The application should be running.
 ## Acknowledgments
 
 * Thanks to our lecturer Sedat Görmüş, PhD for giving us a project to boost our skills :)
->>>>>>> 41a77401250ca9a50cc4ccd79545b96f6d80254c
