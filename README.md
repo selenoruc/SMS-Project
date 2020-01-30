@@ -1,9 +1,4 @@
-# SMS-Project
-SMS Smart Movie Suggester Web App
-=======
-
-
-# SMS Movie Suggester Web App
+# SMS Smart Movie Suggester Web App
 
 ## Problem Statement
 
